@@ -1,0 +1,9 @@
+C:\Users\CODLasay\source\repos\task1_calculator\task1_calculator\bin\Debug\task1_calculator.exe.config
+C:\Users\CODLasay\source\repos\task1_calculator\task1_calculator\bin\Debug\task1_calculator.exe
+C:\Users\CODLasay\source\repos\task1_calculator\task1_calculator\bin\Debug\task1_calculator.pdb
+C:\Users\CODLasay\source\repos\task1_calculator\task1_calculator\obj\Debug\task1_calculator.csprojAssemblyReference.cache
+C:\Users\CODLasay\source\repos\task1_calculator\task1_calculator\obj\Debug\task1_calculator.Form1.resources
+C:\Users\CODLasay\source\repos\task1_calculator\task1_calculator\obj\Debug\task1_calculator.Properties.Resources.resources
+C:\Users\CODLasay\source\repos\task1_calculator\task1_calculator\obj\Debug\task1_calculator.csproj.GenerateResource.cache
+C:\Users\CODLasay\source\repos\task1_calculator\task1_calculator\obj\Debug\task1_calculator.exe
+C:\Users\CODLasay\source\repos\task1_calculator\task1_calculator\obj\Debug\task1_calculator.pdb
